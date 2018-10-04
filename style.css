@@ -1,0 +1,25 @@
+.ui.borderless.topmenu.menu {
+  font-family: monospace;
+  font-size: 20px;
+  color: white;
+  box-shadow: none;
+  border: none;
+  margin: 0px;
+  border-radius: 0px;
+  background-color: #000000;
+
+}
+
+.ui.three.column.grid {
+  background-color: black;
+  font-family: monospace;
+  font-size: 20px;
+  color: white;
+}
+
+.right.white.item{
+  font-family: monospace;
+  font-size: 20px;
+  color: white;
+}
+
